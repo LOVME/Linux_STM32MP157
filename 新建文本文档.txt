@@ -1,2 +1,4 @@
 build project
 test git   ubuntu
+x86
+
